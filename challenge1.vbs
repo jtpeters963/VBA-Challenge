@@ -1,8 +1,4 @@
 Sub stocks()
-<<<<<<< HEAD
-=======
-    Dim current As String  ' working index name
->>>>>>> 72209ec0790b4ef56fcee7d10625a1f0528712df
     workcount = ActiveWorkbook.Worksheets.Count ' workcount counts worksheets
     For ws = 1 To workcount
       x = 2   ' index index initialization
